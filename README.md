@@ -1,6 +1,6 @@
 # Headless CMS
 
-## Web application created using a Back-End Node.js HTTP server using Express.js (With MongoDB as database) & Front-end using Vue.js framework.
+Web application created using a Back-End Node.js HTTP server using Express.js (With MongoDB as database) & Front-end using Vue.js framework.
 
 To-Do:
 * User Authentication system with Ranks.
