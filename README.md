@@ -3,7 +3,7 @@
 This web application has been created using Express.js (MongoDB as DB) & Vue.js.
 
 To-Do:
-* User Authentication system with Ranks.
+* User Authentication system with permissions.
 * Allow admins to upload Files & Images.
 * Image, Sliders & Attachments forms.
 
