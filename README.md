@@ -1,6 +1,8 @@
 # Headless CMS
 
-## This project requieres a MongoDB database.
+## Specs:
+## Back-End: Express.JS + MongoDB.
+## Front-End: Vue.js
 
 To-Do:
 * User Authentication system with Ranks.
